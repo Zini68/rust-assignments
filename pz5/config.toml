@@ -1,0 +1,5 @@
+debug = false
+
+[database]
+url = "localhost"
+port = 5432
